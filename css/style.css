@@ -1,0 +1,154 @@
+html, body {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+}
+select {
+	width:100%;
+	font-size:99%;
+}
+font {
+	font-size:18px;
+	font-family:Times New Roman;
+}
+.title {
+	width:auto;
+	min-width: 1294px;
+	height:55px;
+	padding-top:10px;
+	border:3px #296CD0 solid;
+	background-color:#296CD0;
+}
+.title font {
+	font-size:35px;
+	font-family:Times New Roman;
+
+}
+.select-border {
+	width:auto;
+	height:55%;
+	border:1.8px dimgray solid;
+	margin:4%;
+}
+.left-border {
+	width:320px;
+	height:392px;
+	padding-left:10px;
+	border:3px dimgray solid;
+	background-color:rgba(245,245,245,0.75);
+}
+.left-border h2 {
+	margin:5px;
+}
+.left-border table {
+	margin:auto;
+}
+
+.right-border {
+	width:auto;
+	min-width:940px;
+	height:780px;
+	padding:5px;
+	border:3px dimgray solid;
+	margin:4px;
+}
+.right-border iframe{
+	width:100%;
+	min-width:940px;
+	height:780px;
+	border:none;
+	display:block;
+}
+.column-border {
+	width:auto;
+	min-width:625px;
+	height:780px;
+	padding:5px;
+	border:3px dimgray solid;
+	margin:4px;
+}
+.column-border iframe{
+	width:100%;
+	min-width:625px;
+	height:780px;
+	border:none;
+	display:block;
+}
+.sortable th {
+    cursor: pointer;
+}
+.table tbody tr:hover {
+	background-color:gold;
+}
+.listtitle {
+	color:white;
+	background-color:rgba(27,27,27,0.7);
+}
+.body{
+  background-color:rgba(240, 240, 240, 0.8);
+  font-family:helvetica;
+}
+
+.module{
+  position:relative;
+  top:15%;    
+  height:70%;
+  width:450px;
+  margin:20% auto;
+}
+.form{
+  float:left;
+  height:86%;
+  width:100%;
+  box-sizing:border-box;
+  padding:40px;
+}
+
+.textbox{
+	height:50px;
+	width:100%;
+	border-radius:3px;
+	border:rgba(0,0,0,.3) 2px solid;
+	box-sizing:border-box;
+	padding:10px;
+	margin-bottom:30px;
+	font-size: 23px;
+}
+
+.textbox:focus{
+	outline:none;
+	border:rgba(24,149,215,1) 2px solid;
+	font-size: 23px;
+}
+
+.button{
+	height:50px;
+	width:100%;
+	border-radius:3px;
+	border:rgba(0,0,0,.3) 0px solid;
+	box-sizing:border-box;
+	padding:10px;
+	margin-bottom:30px;
+	background:#90c843;
+	color:#FFF;
+	font-weight:bold;
+	font-size: 25px;
+	transition:background .4s;
+	cursor:pointer;
+}
+.button:hover{
+	background:#80b438;
+}
+
+.logo{
+	position:fixed;
+	top:50%;
+	right:-100px;
+	padding:10px 20px;
+	border-radius:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+}
+.logo:hover{
+	right:-10px;
+}

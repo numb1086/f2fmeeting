@@ -1,0 +1,164 @@
+[0413/112900:ERROR:process_info.cc(608)] range at 0xfffde000, size 0x230 fully unreadable
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x9d9a70 of 72 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x994d88 of 72 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x991a98 of 784 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:ERROR:process_snapshot_win.cc(302)] ReadMemory RTL_USER_PROCESS_PARAMETERS
+[0413/112900:ERROR:process_reader_win.cc(98)] process 4608 not found
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0xb00000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\chrome.exe
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77510000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SysWOW64\ntdll.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76010000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\KERNELBASE.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76060000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\KERNEL32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f50000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\msvcrt.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74e50000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\CRYPTBASE.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74e60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\SspiCli.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75a70000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\RPCRT4.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75820000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\SysWOW64\sechost.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77060000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\ADVAPI32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x73750000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\49.0.2623.112\chrome_elf.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74490000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\webio.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x744e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINHTTP.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74340000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\VERSION.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75920000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\USP10.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x774e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\LPK.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x752a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\GDI32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75d60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\USER32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70c70000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINMM.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75a60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\profapi.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75b60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\USERENV.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72e30000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WTSAPI32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75840000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\MSCTF.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x77000000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IMM32.DLL
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75560000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\SHLWAPI.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76170000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\SHELL32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75810000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\PSAPI.DLL
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x6fa70000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINSPOOL.DRV
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x70a00000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\COMCTL32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74fa0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\COMDLG32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75140000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\ole32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x750b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\OLEAUT32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75a20000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\NSI.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x743f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WINNSI.DLL
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74400000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\IPHLPAPI.DLL
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75020000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\WS2_32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76dc0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\MSASN1.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76dd0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\CRYPT32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75a30000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\WINTRUST.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72190000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\Secur32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x51bd0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files (x86)\Google\Chrome\Application\49.0.2623.112\chrome_child.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x664d0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Program Files\AVAST Software\Avast\aswJsFlt.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x747e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCR110.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x748c0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnIS.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74720000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\WinSxS\x86_avast.vc110.crt_2036b14a11e83e4a_11.0.60610.1_none_1d37a43bbfe1dc9c\MSVCP110.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x747b0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnOS.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74920000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswCmnBS.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72770000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\netutils.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72750000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\srvcli.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72740000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\wkscli.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72780000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\NETAPI32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74700000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\log.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74440000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\DNSAPI.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74540000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\commchannel.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72a80000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\JsonRpcServer.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74370000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\rasman.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74390000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\RASAPI32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74420000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\avastIP.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74350000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswEngLdr.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x726f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\AavmRpch.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745e0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\WSOCK32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f00000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\CFGMGR32.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76f30000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\DEVOBJ.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75e60000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\SETUPAPI.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74ec0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\api-ms-win-downlevel-user32-l1-1-0.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x76000000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\api-ms-win-downlevel-shlwapi-l1-1-0.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75540000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\api-ms-win-downlevel-version-l1-1-0.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x74ed0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\api-ms-win-downlevel-normaliz-l1-1-0.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75910000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\normaliz.DLL
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x755c0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\api-ms-win-downlevel-advapi32-l1-1-0.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x755d0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\iertutil.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x75330000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\syswow64\WININET.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x745f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashBase.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72590000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\aswAux.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x72680000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\ashTask.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x727a0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\PROGRA~1\AVASTS~1\Avast\Aavm4h.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0x666f0000 of 64 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:pe_image_reader.cc(280)] could not read dos header from C:\Windows\system32\dwrite.dll
+[0413/112900:ERROR:process_reader_win.cc(232)] ReadMemory at 0xbac154 of 12 bytes failed: 度ЧΘ场だ ReadProcessMemory ┪ WriteProcessMemory 璶― (0x12B)
+[0413/112900:WARNING:process_snapshot_win.cc(89)] ReadMemory ExceptionInformation failed
+[0413/112900:WARNING:crash_report_exception_handler.cc(60)] ProcessSnapshotWin::InitializeException failed
+[0413/112900:ERROR:scoped_process_suspend.cc(38)] NtResumeProcess, ntstatus=-1073741558
